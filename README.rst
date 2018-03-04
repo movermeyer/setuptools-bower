@@ -6,9 +6,9 @@
     :target: https://travis-ci.org/inveniosoftware/setuptools-bower
 .. image:: https://coveralls.io/repos/inveniosoftware/setuptools-bower/badge.png?branch=master
     :target: https://coveralls.io/r/inveniosoftware/setuptools-bower
-.. image:: https://pypip.in/v/setuptools-bower/badge.png
+.. image:: https://img.shields.io/pypi/v/setuptools-bower.svg
    :target: https://pypi.python.org/pypi/setuptools-bower/
-.. image:: https://pypip.in/d/setuptools-bower/badge.png
+.. image:: https://img.shields.io/pypi/dm/setuptools-bower.svg
    :target: https://pypi.python.org/pypi/setuptools-bower/
 
 About
